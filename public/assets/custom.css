@@ -1,0 +1,91 @@
+.swal2-popup{
+  width: 300px !important;
+  height: 270px;
+}
+.swal2-title {
+  margin: 0px;
+  font-size: 20px !important;
+  margin-bottom: -10px;
+}
+.swal2-icon.swal2-warning.swal2-icon-show {
+  font-size: 10px;
+}
+.swal2-styled {
+  font-size: 10px;
+}
+.select2-container .select2-selection--single {
+  height: 38px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+  top: 5px;
+}
+li.select2-selection__choice {
+  color: black !important;
+}
+.select2 {
+  width: 100% !important;
+}
+#datepicker {
+  top: 65.7969px;
+  z-index: 999999999 !important;
+}
+td {
+  font-size: 14px;
+}
+
+.block_size {
+  max-width: 250px !important;
+}
+
+.h100 {
+  height: 100vh;
+}
+.mt10 {
+  margin-top: 70px
+}
+/* Add some basic styling to the input and dropdown */
+.autocomplete {
+  position: relative;
+  display: inline-block;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.autocomplete-list {
+  cursor: pointer !important;
+}
+.autocomplete-list-item {
+  padding: 10px;
+  cursor: pointer !important;
+}
+.autocomplete-list-item:hover {
+  background-color: #f2f2f2;
+}
+
+.assign{
+    margin-top:2.5rem !important;
+}
+.bgreprat {
+  background-image: url('../captua_image.png');
+  background-repeat: repeat-x;
+  font-weight: 500;
+    text-align: center;
+    letter-spacing: 11px;
+    font-size: 22px;
+    -webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+color: black;
+}
+.bgreprat-refesh {
+width: 35px;
+height: 35px;
+margin-left: 0px;
+float: left;
+}
